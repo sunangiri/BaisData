@@ -7,3 +7,4 @@ SHOW TABLES;
 DESC mahasiswa;
 
 INSERT INTO mahasiswa VALUES ("M Khoirul Risqi", "Desa Ngumpak Dalem", "risqisgb@gmail.com");
+SELECT * FROM mahasiswa;
