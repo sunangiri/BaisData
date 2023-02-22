@@ -6,4 +6,4 @@ SHOW DATABASES;
 SHOW TABLES;
 DESC mahasiswa;
 
-INSERT INTO VALUES mahasiswa ("M Khoirul Risqi", "Desa Ngumpak Dalem", "risqisgb@gmail.com");
+INSERT INTO mahasiswa VALUES ("M Khoirul Risqi", "Desa Ngumpak Dalem", "risqisgb@gmail.com");
