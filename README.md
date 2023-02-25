@@ -18,7 +18,7 @@ SELECT * FROM mahasiswa;
 ```sql
 CREATE DATABASE fst;
 ```
-![](https://raw.githubusercontent.com/sunangiri/BaisData/main/assets/IMG_20230225_102235.jpg) 
+![](/assets/IMG_20230225_102235.jpg) 
 
 ```sql
 USE fst;
