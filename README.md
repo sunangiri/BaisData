@@ -26,9 +26,11 @@ USE fst;
 ![](/assets/IMG_20230225_102305.jpg) 
 
 ```sql
-CREATE TABLE mahasiswa (nama varchar(50) not null,
+CREATE TABLE mahasiswa (
+nama varchar(50) not null,
 alamat varchar(50) not null,
-email varchar(50) not null);
+email varchar(50) not null
+);
 ```
 ![](/assets/IMG_20230225_102457.jpg) 
 
